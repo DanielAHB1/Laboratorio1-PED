@@ -23,7 +23,7 @@ int main(){
         res= x1*x2;
         cout<<"La multiplicacion es: "<< res<< endl;
         break;
-
+        
      default:
         cout<<"Opcion elegida no valida";
         return 0;
